@@ -12,6 +12,6 @@ public class Ex_01 {
         System.out.println("Digite o segundo número: ");
         int n2 = scanner.nextInt();
 
-        System.out.println("Soma = " + n1 + n2);
+        System.out.println("Soma = " + (n1 + n2));
     }
 }
