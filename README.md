@@ -12,7 +12,7 @@ Repositório criado para armazenar os exercícios e projetos desenvolvidos duran
 - Tratamento de Exceções  
 - Manipulação de Arquivos  
 - JDBC  
-- Entre outros tópicos importantes para desenvolvimento em Java.  
+- Java Fx
 
 ## 🚀 Tecnologias Utilizadas  
 - **Java SE**  
