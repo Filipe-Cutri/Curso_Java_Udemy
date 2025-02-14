@@ -17,5 +17,5 @@ Repositório criado para armazenar os exercícios e projetos desenvolvidos duran
 ## 🚀 Tecnologias Utilizadas  
 - **Java SE**  
 - **Eclipse IDE** ou **IntelliJ IDEA**  
-- **JDK 11** ou superior  
+- **JDK 11**  
 
