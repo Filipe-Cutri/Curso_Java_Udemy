@@ -15,7 +15,6 @@ Repositório criado para armazenar os exercícios e projetos desenvolvidos duran
 - Entre outros tópicos importantes para desenvolvimento em Java.  
 
 ## 🚀 Tecnologias Utilizadas  
-- **Java SE**  
 - **Eclipse IDE** ou **IntelliJ IDEA**  
 - **JDK 11** 
 
