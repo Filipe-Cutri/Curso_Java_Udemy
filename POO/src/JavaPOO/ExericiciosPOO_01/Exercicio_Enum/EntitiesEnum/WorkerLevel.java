@@ -1,4 +1,4 @@
-package JavaPOO.ExericiciosPOO_01.ExEnum.EntitiesEnum;
+package JavaPOO.ExericiciosPOO_01.Exercicio_Enum.EntitiesEnum;
 
 public enum WorkerLevel {
     JUNIOR,

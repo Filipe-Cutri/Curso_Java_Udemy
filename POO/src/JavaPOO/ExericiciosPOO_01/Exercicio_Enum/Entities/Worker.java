@@ -1,6 +1,6 @@
-package JavaPOO.ExericiciosPOO_01.ExEnum.Entities;
+package JavaPOO.ExericiciosPOO_01.Exercicio_Enum.Entities;
 
-import JavaPOO.ExericiciosPOO_01.ExEnum.EntitiesEnum.WorkerLevel;
+import JavaPOO.ExericiciosPOO_01.Exercicio_Enum.EntitiesEnum.WorkerLevel;
 
 import java.util.ArrayList;
 import java.util.Calendar;

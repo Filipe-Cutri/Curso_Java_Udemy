@@ -1,4 +1,4 @@
-package JavaPOO.ExericiciosPOO_01.ExEnum.Entities;
+package JavaPOO.ExericiciosPOO_01.Exercicio_Enum.Entities;
 
 import java.util.Date;
 
