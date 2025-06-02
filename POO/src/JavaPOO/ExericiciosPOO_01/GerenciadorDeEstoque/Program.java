@@ -1,4 +1,4 @@
-package JavaPOO.GerenciadorDeEstoque;
+package JavaPOO.ExericiciosPOO_01.GerenciadorDeEstoque;
 
 import java.util.Locale;
 import java.util.Scanner;

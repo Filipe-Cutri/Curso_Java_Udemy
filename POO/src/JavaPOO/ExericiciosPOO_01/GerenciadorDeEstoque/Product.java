@@ -1,4 +1,4 @@
-package JavaPOO.GerenciadorDeEstoque;
+package JavaPOO.ExericiciosPOO_01.GerenciadorDeEstoque;
 
 public class Product {
     public String name;
