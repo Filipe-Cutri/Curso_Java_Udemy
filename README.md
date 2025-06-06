@@ -11,7 +11,8 @@ Repositório criado para armazenar os exercícios e projetos desenvolvidos duran
 - Collections  
 - Tratamento de Exceções  
 - Manipulação de Arquivos  
-- JDBC  
+- JDBC
+- JPA e SpringBoot 
 - Entre outros tópicos importantes para desenvolvimento em Java.  
 
 ## 🚀 Tecnologias Utilizadas  
