@@ -1,9 +1,9 @@
-package JavaPOO.Interfaces.application;
+package JavaPOO.Interfaces.Example01.application;
 
-import JavaPOO.Interfaces.model.entities.CarRental;
-import JavaPOO.Interfaces.model.entities.Vehicle;
-import JavaPOO.Interfaces.model.entities.service.BrazilTaxService;
-import JavaPOO.Interfaces.model.entities.service.RentalService;
+import JavaPOO.Interfaces.Example01.model.entities.CarRental;
+import JavaPOO.Interfaces.Example01.model.entities.Vehicle;
+import JavaPOO.Interfaces.Example01.model.service.BrazilTaxService;
+import JavaPOO.Interfaces.Example01.model.service.RentalService;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

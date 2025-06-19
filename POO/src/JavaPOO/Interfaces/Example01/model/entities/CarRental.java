@@ -1,4 +1,4 @@
-package JavaPOO.Interfaces.model.entities;
+package JavaPOO.Interfaces.Example01.model.entities;
 
 import java.time.LocalDateTime;
 

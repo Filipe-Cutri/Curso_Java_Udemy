@@ -1,7 +1,7 @@
-package JavaPOO.Interfaces.model.entities.service;
+package JavaPOO.Interfaces.Example01.model.service;
 
-import JavaPOO.Interfaces.model.entities.CarRental;
-import JavaPOO.Interfaces.model.entities.Invoice;
+import JavaPOO.Interfaces.Example01.model.entities.CarRental;
+import JavaPOO.Interfaces.Example01.model.entities.Invoice;
 
 import java.time.Duration;
 

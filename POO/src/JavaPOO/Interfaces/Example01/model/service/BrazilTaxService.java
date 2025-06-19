@@ -1,4 +1,4 @@
-package JavaPOO.Interfaces.model.entities.service;
+package JavaPOO.Interfaces.Example01.model.service;
 
 public class BrazilTaxService implements TaxService {
 
