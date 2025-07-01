@@ -15,7 +15,6 @@ Repositório criado para armazenar os exercícios e projetos desenvolvidos duran
 - JPA e SpringBoot
 - JavaFX
 - Versionamento com Git
-- Entre outros tópicos importantes para desenvolvimento em Java.  
 
 ## 🚀 Tecnologias Utilizadas  
 - **Eclipse IDE** ou **IntelliJ IDEA**  
