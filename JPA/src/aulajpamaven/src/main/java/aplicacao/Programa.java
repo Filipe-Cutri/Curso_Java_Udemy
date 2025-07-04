@@ -1,6 +1,5 @@
 package aplicacao;
 
-
 import dominio.Pessoa;
 
 import javax.persistence.EntityManager;
