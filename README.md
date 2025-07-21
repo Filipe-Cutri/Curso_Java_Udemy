@@ -12,7 +12,7 @@ Repositório criado para armazenar os exercícios e projetos desenvolvidos duran
 - Tratamento de Exceções  
 - Manipulação de Arquivos  
 - JDBC
-- JPA e SpringBoot
+- JPA e Hibernate 
 - JavaFX
 - Versionamento com Git
 
