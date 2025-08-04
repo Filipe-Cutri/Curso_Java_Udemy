@@ -13,7 +13,7 @@ import com.projetoSpring.ProjetoSpringBoot.entities.Order;
 import com.projetoSpring.ProjetoSpringBoot.services.OrderService;
 
 @RestController
-@RequestMapping(value = "/orders")
+@RequestMapping(value = "/api/orders")
 public class OrderResource {
 	
 	@Autowired

@@ -13,7 +13,7 @@ import com.projetoSpring.ProjetoSpringBoot.entities.Category;
 import com.projetoSpring.ProjetoSpringBoot.services.CategoryService;
 
 @RestController
-@RequestMapping(value = "/categories")
+@RequestMapping(value = "/api/categories")
 public class CategoryResource {
 	
 	@Autowired

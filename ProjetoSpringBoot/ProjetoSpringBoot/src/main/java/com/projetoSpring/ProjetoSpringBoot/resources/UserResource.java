@@ -19,7 +19,7 @@ import com.projetoSpring.ProjetoSpringBoot.entities.User;
 import com.projetoSpring.ProjetoSpringBoot.services.UserService;
 
 @RestController
-@RequestMapping(value = "/users")
+@RequestMapping(value = "/api/users")
 public class UserResource {
 	
 	@Autowired

@@ -13,7 +13,7 @@ import com.projetoSpring.ProjetoSpringBoot.entities.Product;
 import com.projetoSpring.ProjetoSpringBoot.services.ProductService;
 
 @RestController
-@RequestMapping(value = "/products")
+@RequestMapping(value = "/api/products")
 public class ProductResource {
 	
 	@Autowired
