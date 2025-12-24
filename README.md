@@ -9,8 +9,7 @@
 
 ## 🇧🇷 Português
 
-Repositório criado para armazenar **exercícios e projetos desenvolvidos durante o estudo de Java**, com foco em **Programação Orientada a Objetos (POO)** e **fundamentos de backend**.  
-O conteúdo aborda desde conceitos básicos da linguagem até tecnologias amplamente utilizadas no desenvolvimento backend com Java.
+Repositório criado para armazenar **exercícios e projetos desenvolvidos durante o estudo de Java**, com foco em **Programação Orientada a Objetos (POO)** e **fundamentos de backend**. O conteúdo aborda desde conceitos básicos da linguagem até tecnologias amplamente utilizadas no desenvolvimento backend com Java.
 
 ### 📚 Conteúdo
 - Introdução ao Java  
@@ -33,8 +32,7 @@ O conteúdo aborda desde conceitos básicos da linguagem até tecnologias amplam
 
 ## 🇺🇸 English
 
-Repository created to store **exercises and small projects developed while studying Java**, with a focus on **Object-Oriented Programming (OOP)** and **backend fundamentals**.  
-The content covers everything from basic language concepts to widely used Java backend technologies.
+Repository created to store **exercises and small projects developed while studying Java**, with a focus on **Object-Oriented Programming (OOP)** and **backend fundamentals**. The content covers everything from basic language concepts to widely used Java backend technologies.
 
 ### 📚 Contents
 - Java Introduction  
