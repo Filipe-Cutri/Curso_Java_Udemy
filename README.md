@@ -1,23 +1,58 @@
-# Curso_Java_Udemy  
+# java-backend-fundamentals
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-Repositório criado para armazenar os exercícios e projetos desenvolvidos durante o curso de **Java** na **Udemy**. O curso tem foco em **Programação Orientada a Objetos (POO)**, abordando desde conceitos básicos até tópicos mais avançados.  
+🔗 **Quick access:**  
+[🇧🇷 Português](#-português) | [🇺🇸 English](#-english)
 
-## 📚 Conteúdo do Curso  
+---
+
+## 🇧🇷 Português
+
+Repositório criado para armazenar **exercícios e projetos desenvolvidos durante o estudo de Java**, com foco em **Programação Orientada a Objetos (POO)** e **fundamentos de backend**.  
+O conteúdo aborda desde conceitos básicos da linguagem até tecnologias amplamente utilizadas no desenvolvimento backend com Java.
+
+### 📚 Conteúdo
 - Introdução ao Java  
-- Estrutura de Controle  
+- Estruturas de Controle  
 - Programação Orientada a Objetos (POO)  
 - Collections  
 - Tratamento de Exceções  
 - Manipulação de Arquivos  
-- JDBC
-- JPA e Hibernate
-- SpringBoot 
-- JavaFX
-- Versionamento com Git
+- JDBC  
+- JPA e Hibernate  
+- Spring Boot  
+- JavaFX  
+- Versionamento de código com Git  
 
-## 🚀 Tecnologias Utilizadas  
+### 🚀 Tecnologias Utilizadas
+- **Java (JDK 11)**  
 - **Eclipse IDE** ou **IntelliJ IDEA**  
-- **JDK 11** 
 
+---
+
+## 🇺🇸 English
+
+Repository created to store **exercises and small projects developed while studying Java**, with a focus on **Object-Oriented Programming (OOP)** and **backend fundamentals**.  
+The content covers everything from basic language concepts to widely used Java backend technologies.
+
+### 📚 Contents
+- Java Introduction  
+- Control Structures  
+- Object-Oriented Programming (OOP)  
+- Collections  
+- Exception Handling  
+- File Handling  
+- JDBC  
+- JPA and Hibernate  
+- Spring Boot  
+- JavaFX  
+- Git version control  
+
+### 🚀 Technologies Used
+- **Java (JDK 11)**  
+- **Eclipse IDE** or **IntelliJ IDEA**  
+
+---
+
+📌 *This repository is part of my continuous learning path in Java and backend development.*
